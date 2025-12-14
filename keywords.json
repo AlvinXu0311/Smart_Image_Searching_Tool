@@ -1,0 +1,429 @@
+[
+  {
+    "id": "1-1",
+    "keyword": "person sitting on bench outdoors",
+    "keyword_formatted": "person sitting on bench outdoors",
+    "prompt_cn": "让图中坐着的人站起来，保持背景不变。",
+    "prompt_en": "Make the person sitting in the image stand up, keeping the background unchanged."
+  },
+  {
+    "id": "1-2",
+    "keyword": "dog lying down on floor",
+    "keyword_formatted": "dog lying down on floor",
+    "prompt_cn": "让图中躺着的狗坐起来，保持它的头部朝向不变。",
+    "prompt_en": "Make the dog lying down in the image sit up, keeping its head direction unchanged."
+  },
+  {
+    "id": "1-3",
+    "keyword": "cat sitting on chair",
+    "keyword_formatted": "cat sitting on chair",
+    "prompt_cn": "让图中坐在椅子上的猫蜷缩起来。",
+    "prompt_en": "Make the cat sitting on the chair curl up."
+  },
+  {
+    "id": "1-4",
+    "keyword": "architecture low angle shot",
+    "keyword_formatted": "architecture low angle shot",
+    "prompt_cn": "将这张建筑照片的视角从仰视改为平视。",
+    "prompt_en": "Change the perspective of this architectural photo from a worm's-eye view to an eye-level view."
+  },
+  {
+    "id": "1-5",
+    "keyword": "building facade close up",
+    "keyword_formatted": "building facade close up",
+    "prompt_cn": "将照片中的立面视角从左侧 45 度斜视改为正对平视。",
+    "prompt_en": "Change the facade perspective from a 45-degree angle on the left to a straight, eye-level view."
+  },
+  {
+    "id": "1-6",
+    "keyword": "street view wide angle",
+    "keyword_formatted": "street view wide angle",
+    "prompt_cn": "将这张街道照片的广角畸变矫正为标准透视。",
+    "prompt_en": "Correct the wide-angle distortion of this street photo to a standard perspective."
+  },
+  {
+    "id": "1-7",
+    "keyword": "man leaning on wall",
+    "keyword_formatted": "man leaning on wall",
+    "prompt_cn": "让图中靠墙站着的人完全直立站好。",
+    "prompt_en": "Make the person leaning against the wall stand completely straight."
+  },
+  {
+    "id": "1-8",
+    "keyword": "woman standing profile shot",
+    "keyword_formatted": "woman standing profile shot",
+    "prompt_cn": "将图中女人的侧面姿势转为正面。",
+    "prompt_en": "Change the woman's profile pose in the image to a front-facing one."
+  },
+  {
+    "id": "1-9",
+    "keyword": "car park full view",
+    "keyword_formatted": "car park full view",
+    "prompt_cn": "将停车场照片的视角从俯视（航拍）改为平视。",
+    "prompt_en": "Change the perspective of the car park photo from a top-down (aerial) view to an eye-level view."
+  },
+  {
+    "id": "1-10",
+    "keyword": "mountain range panorama",
+    "keyword_formatted": "mountain range panorama",
+    "prompt_cn": "修正这张山脉全景照片的水平线倾斜角度，保持山体形状不变。",
+    "prompt_en": "Correct the tilt angle of the horizon in this mountain panorama, keeping the mountain shapes unchanged."
+  },
+  {
+    "id": "1-11",
+    "keyword": "baby crawling on rug",
+    "keyword_formatted": "baby crawling on rug",
+    "prompt_cn": "让图中正在爬行的婴儿坐好。",
+    "prompt_en": "Make the baby crawling on the rug sit up."
+  },
+  {
+    "id": "1-12",
+    "keyword": "bird perched on branch",
+    "keyword_formatted": "bird perched on branch",
+    "prompt_cn": "让图中停在树枝上的鸟将头转向镜头。",
+    "prompt_en": "Make the bird perched on the branch turn its head towards the camera."
+  },
+  {
+    "id": "1-13",
+    "keyword": "dancer in mid-movement",
+    "keyword_formatted": "dancer in mid-movement",
+    "prompt_cn": "将舞者在半空中的身体姿势改为在地面上的平衡姿势。",
+    "prompt_en": "Change the dancer's mid-air body posture to a balanced posture on the ground."
+  },
+  {
+    "id": "1-14",
+    "keyword": "house from aerial view",
+    "keyword_formatted": "house from aerial view",
+    "prompt_cn": "将房子的航拍图改为从前院拍摄的平视角度。",
+    "prompt_en": "Change the aerial view of the house to an eye-level angle taken from the front yard."
+  },
+  {
+    "id": "1-15",
+    "keyword": "bridge from below",
+    "keyword_formatted": "bridge from below",
+    "prompt_cn": "将桥梁的仰视照片改为从桥面上拍摄的平视照片。",
+    "prompt_en": "Change the worm's-eye view photo of the bridge to an eye-level shot taken from the bridge deck."
+  },
+  {
+    "id": "1-16",
+    "keyword": "statue full body shot",
+    "keyword_formatted": "statue full body shot",
+    "prompt_cn": "将雕像的视角从低角度改为等高视角。",
+    "prompt_en": "Change the statue's perspective from a low angle to an equal height angle."
+  },
+  {
+    "id": "1-17",
+    "keyword": "close up portrait neutral expression",
+    "keyword_formatted": "close up portrait neutral expression",
+    "prompt_cn": "将他/她的表情修改为：带有 20% 的愤怒和 80% 的惊讶。",
+    "prompt_en": "Change his/her expression to be: 20% anger and 80% surprise."
+  },
+  {
+    "id": "1-18",
+    "keyword": "woman face neutral expression",
+    "keyword_formatted": "woman face neutral expression",
+    "prompt_cn": "让她看起来带着 60% 的不屑和 40% 的好奇心。",
+    "prompt_en": "Make her look 60% disdainful and 40% curious."
+  },
+  {
+    "id": "1-19",
+    "keyword": "man face neutral portrait",
+    "keyword_formatted": "man face neutral portrait",
+    "prompt_cn": "将男士的表情改为：50% 的严肃和 50% 的轻微喜悦。",
+    "prompt_en": "Change the man's expression to: 50% seriousness and 50% slight joy."
+  },
+  {
+    "id": "1-20",
+    "keyword": "child face close up calm",
+    "keyword_formatted": "child face close up calm",
+    "prompt_cn": "将孩子的表情修改为：带有 75% 的疑惑和 25% 的恐惧。",
+    "prompt_en": "Change the child's expression to be: 75% confusion and 25% fear."
+  },
+  {
+    "id": "1-21",
+    "keyword": "teenager portrait plain",
+    "keyword_formatted": "teenager portrait plain",
+    "prompt_cn": "让青少年的表情看起来带着 30% 的傲慢和 70% 的放松。",
+    "prompt_en": "Make the teenager's expression look 30% arrogant and 70% relaxed."
+  },
+  {
+    "id": "1-22",
+    "keyword": "elderly person profile serious",
+    "keyword_formatted": "elderly person profile serious",
+    "prompt_cn": "将老人的侧脸表情改为：带有 90% 的沉思和 10% 的满意。",
+    "prompt_en": "Change the elderly person's profile expression to: 90% contemplation and 10% satisfaction."
+  },
+  {
+    "id": "1-23",
+    "keyword": "model close up expressionless",
+    "keyword_formatted": "model close up expressionless",
+    "prompt_cn": "将模特的表情改为：一种难以言喻的、混合了 40% 怀旧和 60% 疲惫的复杂情绪。",
+    "prompt_en": "Change the model's expression to: an indescribable, complex emotion mixing 40% nostalgia and 60% exhaustion."
+  },
+  {
+    "id": "1-24",
+    "keyword": "neutral close up face",
+    "keyword_formatted": "neutral close up face",
+    "prompt_cn": "让他看起来带有 10% 的痛苦和 90% 的决心。",
+    "prompt_en": "Make him look 10% pain and 90% determination."
+  },
+  {
+    "id": "1-25",
+    "keyword": "young adult looking ahead neutral",
+    "keyword_formatted": "young adult looking ahead neutral",
+    "prompt_cn": "让她看起来带着一种带有 50% 惊喜和 50% 担忧的表情。",
+    "prompt_en": "Make her look with an expression that is 50% surprise and 50% worry."
+  },
+  {
+    "id": "1-26",
+    "keyword": "human face no emotion",
+    "keyword_formatted": "human face no emotion",
+    "prompt_cn": "将他/她的表情修改为：一种 85% 的轻蔑和 15% 的歉意。",
+    "prompt_en": "Change his/her expression to be: 85% contempt and 15% apology."
+  },
+  {
+    "id": "1-27",
+    "keyword": "professional headshot blank",
+    "keyword_formatted": "professional headshot blank",
+    "prompt_cn": "将照片中的人物表情修改为：带有 40% 专注和 60% 迷茫。",
+    "prompt_en": "Change the subject's expression in the photo to be: 40% focus and 60% bewilderment."
+  },
+  {
+    "id": "1-28",
+    "keyword": "woman sitting on armchair indoor",
+    "keyword_formatted": "woman sitting on armchair indoor",
+    "prompt_cn": "让图中坐在扶手椅上的人保持上半身姿势不变，双腿改为交叉。",
+    "prompt_en": "Make the person sitting in the armchair keep the upper body posture unchanged, but change the legs to be crossed."
+  },
+  {
+    "id": "1-29",
+    "keyword": "sports car low angle shot",
+    "keyword_formatted": "sports car low angle shot",
+    "prompt_cn": "将跑车的低角度照片改为俯视 45 度的视角。",
+    "prompt_en": "Change the sports car's low-angle photo to a 45-degree top-down perspective."
+  },
+  {
+    "id": "1-30",
+    "keyword": "person holding phone neutral expression",
+    "keyword_formatted": "person holding phone neutral expression",
+    "prompt_cn": "让他/她看手机时的表情带有 70% 的失望和 30% 的不耐烦。",
+    "prompt_en": "Make his/her expression while looking at the phone 70% disappointment and 30% impatience."
+  },
+  {
+    "id": "编号",
+    "keyword": "英文关键词 (Keywords - ENG)",
+    "keyword_formatted": "英文关键词 (keywords - eng)",
+    "prompt_cn": "双语 Prompt (CN",
+    "prompt_en": "EN)"
+  },
+  {
+    "id": "2-1",
+    "keyword": "old sign blurred text weathered",
+    "keyword_formatted": "old sign blurred text weathered",
+    "prompt_cn": "修复路牌上模糊不清的文字，并将其内容改为“Central Avenue”。",
+    "prompt_en": "Repair the blurred text on the road sign and change its content to \"Central Avenue\"."
+  },
+  {
+    "id": "2-2",
+    "keyword": "texture wall graffiti partially covered",
+    "keyword_formatted": "texture wall graffiti partially covered",
+    "prompt_cn": "补全墙面上被树叶遮挡的字母，使其可读并保持透视和阴影一致。",
+    "prompt_en": "Complete the letters on the wall obscured by leaves, making them legible while maintaining perspective and shadow consistency."
+  },
+  {
+    "id": "2-3",
+    "keyword": "product packaging label crooked text",
+    "keyword_formatted": "product packaging label crooked text",
+    "prompt_cn": "矫正产品包装上倾斜的标签文字，使其与包装边缘平行。",
+    "prompt_en": "Correct the crooked label text on the product packaging, making it parallel to the packaging edge."
+  },
+  {
+    "id": "2-4",
+    "keyword": "old newspaper faded text torn",
+    "keyword_formatted": "old newspaper faded text torn",
+    "prompt_cn": "修复老报纸上被撕裂和褪色的文字，保持纸张的旧纹理。",
+    "prompt_en": "Repair the torn and faded text on the old newspaper, retaining the aged texture of the paper."
+  },
+  {
+    "id": "2-5",
+    "keyword": "neon sign broken letters night",
+    "keyword_formatted": "neon sign broken letters night",
+    "prompt_cn": "修复霓虹灯招牌上不亮或断裂的字母，使其显示完整的单词“OPEN”。",
+    "prompt_en": "Repair the unlit or broken letters on the neon sign to display the complete word \"OPEN\"."
+  },
+  {
+    "id": "2-6",
+    "keyword": "curved surface banner distorted text",
+    "keyword_formatted": "curved surface banner distorted text",
+    "prompt_cn": "将曲面横幅上扭曲的文字替换为“Grand Opening”，保持曲面上的自然变形。",
+    "prompt_en": "Replace the distorted text on the curved banner with \"Grand Opening\", maintaining the natural deformation on the curved surface."
+  },
+  {
+    "id": "2-7",
+    "keyword": "chalkboard menu smudged writing",
+    "keyword_formatted": "chalkboard menu smudged writing",
+    "prompt_cn": "清晰化黑板菜单上模糊的文字，并将其内容改为“Special Today: Pizza”。",
+    "prompt_en": "Clarify the smudged text on the chalkboard menu and change its content to \"Special Today: Pizza\"."
+  },
+  {
+    "id": "2-8",
+    "keyword": "screen with digital ui overlay watermark",
+    "keyword_formatted": "screen with digital ui overlay watermark",
+    "prompt_cn": "无痕移除屏幕上方的数字水印（Watermark），恢复被遮挡的背景细节。",
+    "prompt_en": "Seamlessly remove the digital watermark from the top of the screen, restoring the obscured background details."
+  },
+  {
+    "id": "2-9",
+    "keyword": "logo on rough wood texture",
+    "keyword_formatted": "logo on rough wood texture",
+    "prompt_cn": "从粗糙的木纹表面上删除清晰可见的 Logo，恢复底下的木纹。",
+    "prompt_en": "Remove the clearly visible Logo from the rough wood texture surface, restoring the wood grain underneath."
+  },
+  {
+    "id": "2-10",
+    "keyword": "water reflection text sign",
+    "keyword_formatted": "water reflection text sign",
+    "prompt_cn": "修复在水面反射中被扭曲的文字，使其内容清晰可读。",
+    "prompt_en": "Repair the text distorted in the water reflection, making its content clearly legible."
+  },
+  {
+    "id": "2-11",
+    "keyword": "shirt with text fading",
+    "keyword_formatted": "shirt with text fading",
+    "prompt_cn": "修复衬衫上部分褪色的印花文字，使其颜色均匀，内容正确。",
+    "prompt_en": "Repair the partially faded printed text on the shirt, making the color uniform and the content correct."
+  },
+  {
+    "id": "2-12",
+    "keyword": "book spine tilted text",
+    "keyword_formatted": "book spine tilted text",
+    "prompt_cn": "矫正书脊上倾斜的文字，使其完全垂直于书脊。",
+    "prompt_en": "Correct the tilted text on the book spine, making it perfectly perpendicular to the spine."
+  },
+  {
+    "id": "2-13",
+    "keyword": "building lettering perspective distorted",
+    "keyword_formatted": "building lettering perspective distorted",
+    "prompt_cn": "修复建筑立面上因视角产生的严重透视扭曲文字，并保持阴影一致。",
+    "prompt_en": "Repair the severely perspective-distorted text on the building facade caused by the viewpoint, and maintain shadow consistency."
+  },
+  {
+    "id": "2-14",
+    "keyword": "canvas painting signature faded",
+    "keyword_formatted": "canvas painting signature faded",
+    "prompt_cn": "修复画布上艺术家签名处褪色的文字，保持笔触感。",
+    "prompt_en": "Repair the faded text on the artist's signature on the canvas, maintaining the sense of brushstrokes."
+  },
+  {
+    "id": "2-15",
+    "keyword": "street manhole cover letters worn",
+    "keyword_formatted": "street manhole cover letters worn",
+    "prompt_cn": "修复人孔盖上被磨损的铸铁文字，使其可读。",
+    "prompt_en": "Repair the worn cast iron text on the manhole cover, making it legible."
+  },
+  {
+    "id": "2-16",
+    "keyword": "car license plate obscured mud",
+    "keyword_formatted": "car license plate obscured mud",
+    "prompt_cn": "清除被泥巴遮挡的车牌文字，并准确识别和填补正确的数字和字母。",
+    "prompt_en": "Clean the license plate text obscured by mud, and accurately identify and fill in the correct numbers and letters."
+  },
+  {
+    "id": "2-17",
+    "keyword": "UI overlay on photo complex graphic",
+    "keyword_formatted": "ui overlay on photo complex graphic",
+    "prompt_cn": "无痕移除图像上方的复杂 UI 覆盖层（例如社交媒体按钮、边框），恢复背景。",
+    "prompt_en": "Seamlessly remove the complex UI overlay (e.g., social media buttons, borders) from the image, restoring the background."
+  },
+  {
+    "id": "2-18",
+    "keyword": "sign partially in shadow",
+    "keyword_formatted": "sign partially in shadow",
+    "prompt_cn": "修复标牌上处于阴影中的文字，使其在阴影中依然清晰可读。",
+    "prompt_en": "Repair the text on the sign that is partially in shadow, making it clearly legible even in the shadow."
+  },
+  {
+    "id": "2-19",
+    "keyword": "reflective surface etched text",
+    "keyword_formatted": "reflective surface etched text",
+    "prompt_cn": "从高反光的金属表面无痕移除蚀刻的文字，保持高光和反射的连续性。",
+    "prompt_en": "Seamlessly remove the etched text from the highly reflective metal surface, maintaining the continuity of highlights and reflections."
+  },
+  {
+    "id": "2-20",
+    "keyword": "text on crumpled paper",
+    "keyword_formatted": "text on crumpled paper",
+    "prompt_cn": "修复在揉皱的纸张上因折痕而断裂的文字，保持折痕的几何结构。",
+    "prompt_en": "Repair the text on crumpled paper that is broken due to creases, maintaining the geometric structure of the creases."
+  },
+  {
+    "id": "2-21",
+    "keyword": "screen glare text illegible",
+    "keyword_formatted": "screen glare text illegible",
+    "prompt_cn": "修复屏幕上因眩光（Glare）而不可读的文字，并保持屏幕的亮度和反光。",
+    "prompt_en": "Repair the text on the screen made illegible by glare, maintaining the brightness and reflection of the screen."
+  },
+  {
+    "id": "2-22",
+    "keyword": "embossed leather letters",
+    "keyword_formatted": "embossed leather letters",
+    "prompt_cn": "从浮雕皮革表面无痕删除所有字母，恢复皮革纹理。",
+    "prompt_en": "Seamlessly remove all letters from the embossed leather surface, restoring the leather texture."
+  },
+  {
+    "id": "2-23",
+    "keyword": "distorted text reflection glass",
+    "keyword_formatted": "distorted text reflection glass",
+    "prompt_cn": "修复通过弯曲玻璃观察到的扭曲文字，使其在玻璃后方变得笔直且可读。",
+    "prompt_en": "Repair the distorted text viewed through curved glass, making it straight and legible behind the glass."
+  },
+  {
+    "id": "2-24",
+    "keyword": "painted road marking faded",
+    "keyword_formatted": "painted road marking faded",
+    "prompt_cn": "修复路面上被磨损的白色交通标记文字，使其清晰，并与路面纹理融合。",
+    "prompt_en": "Repair the worn white traffic marking text on the road, making it clear and blending with the road surface texture."
+  },
+  {
+    "id": "2-25",
+    "keyword": "clothing brand tag blurry",
+    "keyword_formatted": "clothing brand tag blurry",
+    "prompt_cn": "修复衣服标签上模糊不清的品牌名称，确保字体和内容正确。",
+    "prompt_en": "Repair the blurry brand name on the clothing tag, ensuring the correct font and content."
+  },
+  {
+    "id": "2-26",
+    "keyword": "photo with date stamp watermark",
+    "keyword_formatted": "photo with date stamp watermark",
+    "prompt_cn": "无痕移除照片右下角的日期时间戳（Date Stamp）水印，恢复底层图像内容。",
+    "prompt_en": "Seamlessly remove the date stamp watermark from the bottom right of the photo, restoring the underlying image content."
+  },
+  {
+    "id": "2-27",
+    "keyword": "menu board complex background text",
+    "keyword_formatted": "menu board complex background text",
+    "prompt_cn": "无痕移除菜单板上的小图标（Complex Graphic），保留后方复杂的木纹背景。",
+    "prompt_en": "Seamlessly remove the small icon (Complex Graphic) from the menu board, retaining the complex wood grain background behind it."
+  },
+  {
+    "id": "2-28",
+    "keyword": "window with sticker text bubble",
+    "keyword_formatted": "window with sticker text bubble",
+    "prompt_cn": "移除窗户上反射的对话气泡贴纸，恢复窗户外的景色。",
+    "prompt_en": "Remove the reflected dialogue bubble sticker on the window, restoring the view outside the window."
+  },
+  {
+    "id": "2-29",
+    "keyword": "keyboard key lettering worn",
+    "keyword_formatted": "keyboard key lettering worn",
+    "prompt_cn": "修复键盘按键上被磨损的字母，使其清晰完整。",
+    "prompt_en": "Repair the worn letters on the keyboard keys, making them clear and complete."
+  },
+  {
+    "id": "2-30",
+    "keyword": "map with compass rose overlay",
+    "keyword_formatted": "map with compass rose overlay",
+    "prompt_cn": "无痕移除地图上的指南针图形覆盖层（Compass Rose Overlay），恢复地图的细节。",
+    "prompt_en": "Seamlessly remove the compass rose graphic overlay from the map, restoring the map details."
+  }
+]
