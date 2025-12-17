@@ -169,7 +169,7 @@ def evaluate_best_image(images, keyword, max_retries=3):
             temp_files.append(None)
 
     # Prepare prompt
-    prompt = f"Here are {len(images)} images searched for the keyword '{keyword}'. Which one is the best match? Choose the index (0 to {len(images)-1}) of the best image and explain why briefly."
+    prompt = f"Here are {len(images)} images searched for the keyword '{keyword}'. Which one is the best match? Choose the index (0 to {len(images)-1}) of the best image fitting the keywor without watermark"
 
     # Upload images to Gemini
     uploaded_files = []
