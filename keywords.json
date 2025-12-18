@@ -334,5 +334,215 @@
     "keyword_formatted": "map with compass rose overlay",
     "prompt_cn": "无痕移除地图上的指南针图形覆盖层（Compass Rose Overlay），恢复地图的细节。",
     "prompt_en": "Seamlessly remove the compass rose graphic overlay from the map, restoring the map details."
+  },
+  {
+    "id": "2-33",
+    "keyword": "concrete wall spray paint text",
+    "keyword_formatted": "concrete wall spray paint text",
+    "prompt_cn": "从混凝土墙面上无痕移除喷漆文字，恢复墙面的原始纹理。",
+    "prompt_en": "Seamlessly remove spray-painted text from the concrete wall, restoring the original wall texture."
+  },
+  {
+    "id": "2-34",
+    "keyword": "handwritten note blurred ink",
+    "keyword_formatted": "handwritten note blurred ink",
+    "prompt_cn": "修复手写便条上因墨水晕染而模糊的文字，使其清晰可读。",
+    "prompt_en": "Repair the blurred text on the handwritten note caused by ink bleeding, making it clearly legible."
+  },
+  {
+    "id": "2-36",
+    "keyword": "receipt faded thermal print",
+    "keyword_formatted": "receipt faded thermal print",
+    "prompt_cn": "修复收据上褪色的热敏打印文字，使其重新清晰显示。",
+    "prompt_en": "Repair the faded thermal print text on the receipt, making it clearly visible again."
+  },
+  {
+    "id": "2-38",
+    "keyword": "brick wall painted sign fading",
+    "keyword_formatted": "brick wall painted sign fading",
+    "prompt_cn": "修复砖墙上正在褪色的手绘招牌文字，增强其可读性和颜色。",
+    "prompt_en": "Repair the fading hand-painted sign text on the brick wall, enhancing its readability and color."
+  },
+  {
+    "id": "2-39",
+    "keyword": "glass door frosted text etched",
+    "keyword_formatted": "glass door frosted text etched",
+    "prompt_cn": "从玻璃门上移除蚀刻文字，恢复均匀的透明效果。",
+    "prompt_en": "Remove etched text from the frosted glass door, restoring the uniform clear effect."
+  },
+  {
+    "id": "2-40",
+    "keyword": "document partially illegible",
+    "keyword_formatted": "document partially illegible",
+    "prompt_cn": "修复文件上部分不清晰的文字，使其完整可辨认。",
+    "prompt_en": "Repair the partially illegible text on the document, making it fully recognizable."
+  },
+  {
+    "id": "2-45",
+    "keyword": "whiteboard marker text smeared",
+    "keyword_formatted": "whiteboard marker text smeared",
+    "prompt_cn": "修复白板上被擦花的马克笔文字，使其笔画清晰连贯。",
+    "prompt_en": "Repair the smeared marker text on the whiteboard, making the strokes clear and coherent."
+  },
+  {
+    "id": "2-50",
+    "keyword": "billboard advertisement with logo overlay",
+    "keyword_formatted": "billboard advertisement with logo overlay",
+    "prompt_cn": "无痕移除广告牌上叠加的品牌Logo，恢复背景广告画面。",
+    "prompt_en": "Seamlessly remove the overlaid brand logo from the billboard, restoring the background advertisement."
+  },
+  {
+    "id": "2-54",
+    "keyword": "tattoo lettering on skin faded",
+    "keyword_formatted": "tattoo lettering on skin faded",
+    "prompt_cn": "修复皮肤上褪色的纹身文字，增强其黑色墨水的对比度。",
+    "prompt_en": "Repair the faded tattoo lettering on the skin, enhancing the black ink contrast."
+  },
+  {
+    "id": "2-55",
+    "keyword": "chalkboard eraser marks on text",
+    "keyword_formatted": "chalkboard eraser marks on text",
+    "prompt_cn": "清除黑板文字上的擦拭痕迹，使文字边缘清晰整齐。",
+    "prompt_en": "Remove eraser marks from the chalkboard text, making the text edges clean and neat."
+  },
+  {
+    "id": "3-1",
+    "keyword": "portrait of a person",
+    "keyword_formatted": "portrait of a person",
+    "prompt_cn": "提升图中人物的面部细节和皮肤质感，使其更加清晰。",
+    "prompt_en": "Enhance the facial details and skin texture of the person in the image to make it clearer."
+  },
+  {
+    "id": "3-2",
+    "keyword": "person with a pet",
+    "keyword_formatted": "person with a pet",
+    "prompt_cn": "增强图中人物与动物的边缘锐度，还原毛发细节。",
+    "prompt_en": "Enhance the edge sharpness of the person and animal in the image, restoring fur details."
+  },
+  {
+    "id": "3-3",
+    "keyword": "urban road signs",
+    "keyword_formatted": "urban road signs",
+    "prompt_cn": "对图中的文字标识进行超分辨率处理，提高可读性。",
+    "prompt_en": "Perform super-resolution on the text signs in the image to improve readability."
+  },
+  {
+    "id": "3-4",
+    "keyword": "outdoor human activity",
+    "keyword_formatted": "outdoor human activity",
+    "prompt_cn": "聚焦并放大图中的主体人物，忽略背景杂质。",
+    "prompt_en": "Focus on and upscale the main subject person in the image, ignoring background noise."
+  },
+  {
+    "id": "3-5",
+    "keyword": "street view with text",
+    "keyword_formatted": "street view with text",
+    "prompt_cn": "清晰化远处的路标信息，修复模糊的边缘。",
+    "prompt_en": "Clarify the distant road sign information and fix blurry edges."
+  },
+  {
+    "id": "4-1",
+    "keyword": "industrial machine in dark environment",
+    "keyword_formatted": "industrial machine in dark environment",
+    "prompt_cn": "在暗光环境下提亮机械结构，增强工业设备的可见度。",
+    "prompt_en": "Brighten the mechanical structure in a dark environment and enhance the visibility of industrial equipment."
+  },
+  {
+    "id": "4-2",
+    "keyword": "robotic system in low light",
+    "keyword_formatted": "robotic system in low light",
+    "prompt_cn": "减少弱光下的图像噪点，清晰展现机器人的轮廓。",
+    "prompt_en": "Reduce image noise in low light and clearly display the robot's outline."
+  },
+  {
+    "id": "4-3",
+    "keyword": "night driving dash",
+    "keyword_formatted": "night driving dash",
+    "prompt_cn": "提升夜间驾驶画面的亮度，确保道路细节清晰可见。",
+    "prompt_en": "Improve the brightness of the night driving scene to ensure road details are clearly visible."
+  },
+  {
+    "id": "4-4",
+    "keyword": "navigation screen in dark car",
+    "keyword_formatted": "navigation screen in dark car",
+    "prompt_cn": "优化暗光下显示屏的对比度，使导航界面更易读。",
+    "prompt_en": "Optimize the contrast of the display screen in low light to make the navigation interface more readable."
+  },
+  {
+    "id": "4-5",
+    "keyword": "automated facility at night",
+    "keyword_formatted": "automated facility at night",
+    "prompt_cn": "恢复暗光区域的纹理，增强自动化作业环境的可视性。",
+    "prompt_en": "Restore textures in dark areas and enhance the visibility of the automated working environment."
+  },
+  {
+    "id": "5-1",
+    "keyword": "strong glare on reflective surface",
+    "keyword_formatted": "strong glare on reflective surface",
+    "prompt_cn": "消除物体表面的强烈眩光，恢复被遮盖的细节。",
+    "prompt_en": "Eliminate strong glare on the surface of objects and restore covered details."
+  },
+  {
+    "id": "5-2",
+    "keyword": "overexposed light source",
+    "keyword_formatted": "overexposed light source",
+    "prompt_cn": "抑制画面中的过曝区域，找回高亮部分的图像信息。",
+    "prompt_en": "Suppress overexposed areas in the image and retrieve image information from the highlights."
+  },
+  {
+    "id": "5-3",
+    "keyword": "driving with lens flare",
+    "keyword_formatted": "driving with lens flare",
+    "prompt_cn": "移除画面中的镜头光斑和眩光，还原前方道路信息。",
+    "prompt_en": "Remove lens flare and glare from the image to restore the road information ahead."
+  },
+  {
+    "id": "5-4",
+    "keyword": "high brightness industrial scene",
+    "keyword_formatted": "high brightness industrial scene",
+    "prompt_cn": "调整画面曝光平衡，消除工业光源带来的视觉干扰。",
+    "prompt_en": "Adjust image exposure balance and eliminate visual interference caused by industrial light sources."
+  },
+  {
+    "id": "5-5",
+    "keyword": "dashboard glare",
+    "keyword_formatted": "dashboard glare",
+    "prompt_cn": "减少挡风玻璃或屏幕上的反光，使驾驶导航信息清晰。",
+    "prompt_en": "Reduce reflections on the windshield or screen to make driving navigation information clear."
+  },
+  {
+    "id": "6-1",
+    "keyword": "person wearing casual outfit",
+    "keyword_formatted": "person wearing casual outfit",
+    "prompt_cn": "更改图中人物所穿的衣服款式和颜色。",
+    "prompt_en": "Change the style and color of the clothes worn by the person in the image."
+  },
+  {
+    "id": "6-2",
+    "keyword": "human model portrait",
+    "keyword_formatted": "human model portrait",
+    "prompt_cn": "为图中的人物添加一件时尚的配饰（如帽子或眼镜）。",
+    "prompt_en": "Add a stylish accessory (such as a hat or glasses) to the person in the image."
+  },
+  {
+    "id": "6-3",
+    "keyword": "full body photo of a person",
+    "keyword_formatted": "full body photo of a person",
+    "prompt_cn": "修改人物的站立姿态，使其更具时尚感。",
+    "prompt_en": "Modify the person's standing pose to make it more fashionable."
+  },
+  {
+    "id": "6-4",
+    "keyword": "person with specific hairstyle",
+    "keyword_formatted": "person with specific hairstyle",
+    "prompt_cn": "改变图中人物的发型和发色。",
+    "prompt_en": "Change the hairstyle and hair color of the person in the image."
+  },
+  {
+    "id": "6-5",
+    "keyword": "person in professional attire",
+    "keyword_formatted": "person in professional attire",
+    "prompt_cn": "将人物的服装更换为另一种季节的时尚风格。",
+    "prompt_en": "Change the person's clothing to a different seasonal fashion style."
   }
 ]

@@ -32,11 +32,12 @@ env/
 # Output Directory
 output/
 output_test/
+output_test2/
+output_candidates/
 
 # Temporary Files
 temp_*.jpg
 *.tmp
-output_test2/
 
 # IDE
 .vscode/

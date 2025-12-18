@@ -143,22 +143,44 @@ FILE_TYPE=png
 ```
 
 #### NUM_RESULTS - Number of Search Results
-Set the number of images returned for each keyword search (max 10):
+Set the number of images returned for each keyword search (max 100):
 ```bash
-NUM_RESULTS=10
+NUM_RESULTS=15
 ```
 
-#### START_INDEX and END_INDEX - Keyword Range
-Process keywords from START_INDEX to END_INDEX (exclusive):
-```bash
-START_INDEX=0     # First keyword index
-END_INDEX=30      # Process keywords 0-29
-```
+The tool automatically handles pagination for values > 10. For example:
+- `NUM_RESULTS=5` → 1 API request (5 images)
+- `NUM_RESULTS=15` → 2 API requests (10 + 5 images)
+- `NUM_RESULTS=30` → 3 API requests (10 + 10 + 10 images)
 
-Examples:
-- `0 to 30` = First 30 keywords (1-1 to 1-30)
-- `30 to 60` = Keywords 31-60 (including header + 2-1 to 2-29)
-- `0 to 61` = All keywords
+#### Keyword Range Selection
+
+The tool supports three methods to select which keywords to process:
+
+**Method 1: By Part Number (RECOMMENDED)**
+```bash
+PROCESS_PARTS=3,4,5,6
+```
+Process all keywords in the specified parts (comma-separated).
+- `PROCESS_PARTS=1` → All part 1 keywords
+- `PROCESS_PARTS=2,3` → All keywords in parts 2 and 3
+- `PROCESS_PARTS=1,2,3,4,5,6` → All keywords from parts 1-6
+
+**Method 2: By Specific IDs**
+```bash
+PROCESS_IDS=3-1:3-5,4-1:4-5
+```
+Specify exact IDs or ID ranges (comma-separated). Ranges use `:` notation.
+- `PROCESS_IDS=1-1,1-5,1-10` → Only these 3 specific keywords
+- `PROCESS_IDS=2-1:2-10` → Keywords 2-1 through 2-10 (inclusive)
+- `PROCESS_IDS=3-1:3-5,4-1:4-5` → Parts 3 & 4, IDs 1-5 only
+
+**Method 3: By Array Index (for backward compatibility)**
+```bash
+START_INDEX=0
+END_INDEX=30
+```
+Uses 0-based array indices. Less readable due to missing IDs in the JSON.
 
 ### Example Configurations
 
@@ -202,12 +224,30 @@ IMG_DOMINANT_COLOR=blue
 
 ## Output
 
-Images are saved in the `output/` directory with the naming format:
+The tool uses a dual-output strategy for flexible image selection:
+
+### Primary Output (`output/`)
+The best image (selected by Gemini or first result) is saved here:
 ```
-{id}_{keyword_formatted}.jpg
+output/{id}_{keyword_formatted}.jpg
 ```
 
-For example: `1-1_person_sitting_on_bench_outdoors.jpg`
+For example: `output/1-1_person_sitting_on_bench_outdoors.jpg`
+
+### Candidate Images (`output_candidates/`)
+All search results are saved in individual folders for manual review:
+```
+output_candidates/{id}_{keyword_formatted}/
+  ├── candidate_1.jpg
+  ├── candidate_2.jpg
+  ├── candidate_3.jpg
+  └── ...
+```
+
+This allows you to:
+- Review all candidates and manually select the best one
+- Keep alternatives if the automatically selected image isn't suitable
+- Compare different options side by side
 
 All downloaded images are automatically converted to JPEG format with high quality (95%), regardless of the original format (PNG, WebP, etc.). Transparent images are converted with a white background.
 
