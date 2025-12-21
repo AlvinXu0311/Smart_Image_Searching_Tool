@@ -407,142 +407,1017 @@
   },
   {
     "id": "3-1",
-    "keyword": "portrait of a person",
-    "keyword_formatted": "portrait of a person",
-    "prompt_cn": "提升图中人物的面部细节和皮肤质感，使其更加清晰。",
-    "prompt_en": "Enhance the facial details and skin texture of the person in the image to make it clearer."
+    "keyword": "person reading street sign -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person reading street sign",
+    "prompt_cn": "提升图中路标文字的清晰度和锐度，使人物能够更清楚地阅读标识内容。",
+    "prompt_en": "Enhance the clarity and sharpness of the street sign text so the person can read the sign content more clearly."
   },
   {
     "id": "3-2",
-    "keyword": "person with a pet",
-    "keyword_formatted": "person with a pet",
-    "prompt_cn": "增强图中人物与动物的边缘锐度，还原毛发细节。",
-    "prompt_en": "Enhance the edge sharpness of the person and animal in the image, restoring fur details."
+    "keyword": "person near road sign -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person near road sign",
+    "prompt_cn": "提升路标的清晰度和可读性，同时保持人物的自然姿态。",
+    "prompt_en": "Enhance the clarity and readability of the road sign while maintaining the person's natural posture."
   },
   {
     "id": "3-3",
-    "keyword": "urban road signs",
-    "keyword_formatted": "urban road signs",
-    "prompt_cn": "对图中的文字标识进行超分辨率处理，提高可读性。",
-    "prompt_en": "Perform super-resolution on the text signs in the image to improve readability."
+    "keyword": "pedestrian at traffic sign -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "pedestrian at traffic sign",
+    "prompt_cn": "对交通标识进行清晰化处理，使行人能够清楚看到标识内容。",
+    "prompt_en": "Clarify the traffic sign so pedestrians can clearly see the sign content."
   },
   {
     "id": "3-4",
-    "keyword": "outdoor human activity",
-    "keyword_formatted": "outdoor human activity",
-    "prompt_cn": "聚焦并放大图中的主体人物，忽略背景杂质。",
-    "prompt_en": "Focus on and upscale the main subject person in the image, ignoring background noise."
+    "keyword": "person pointing at sign -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person pointing at sign",
+    "prompt_cn": "提升人物手指指向的街道标识的清晰度和细节。",
+    "prompt_en": "Enhance the clarity and details of the street sign the person is pointing at."
   },
   {
     "id": "3-5",
-    "keyword": "street view with text",
-    "keyword_formatted": "street view with text",
-    "prompt_cn": "清晰化远处的路标信息，修复模糊的边缘。",
-    "prompt_en": "Clarify the distant road sign information and fix blurry edges."
+    "keyword": "person under directional sign -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person under directional sign",
+    "prompt_cn": "提高方向指示牌的分辨率，使其文字和箭头信息更加清晰。",
+    "prompt_en": "Improve the resolution of the directional sign to make its text and arrow information clearer."
+  },
+  {
+    "id": "3-6",
+    "keyword": "person at crosswalk sign -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person at crosswalk sign",
+    "prompt_cn": "提升斑马线标志的清晰度，使交通标识更易识别。",
+    "prompt_en": "Enhance the clarity of the crosswalk sign to make traffic markings more recognizable."
+  },
+  {
+    "id": "3-7",
+    "keyword": "person looking at sign -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person looking at sign",
+    "prompt_cn": "提升人物视线所及标志的清晰度和可读性。",
+    "prompt_en": "Enhance the clarity and readability of the sign in the person's line of sight."
+  },
+  {
+    "id": "3-8",
+    "keyword": "person at crosswalk -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person at crosswalk",
+    "prompt_cn": "提高斑马线标识和人物细节的清晰度，增强画面整体锐度。",
+    "prompt_en": "Improve the clarity of crosswalk markings and person details, enhancing overall image sharpness."
+  },
+  {
+    "id": "3-9",
+    "keyword": "person at traffic light -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person at traffic light",
+    "prompt_cn": "提升交通信号灯和周边标识的清晰度，增强场景细节。",
+    "prompt_en": "Enhance the clarity of traffic lights and surrounding signs, improving scene details."
+  },
+  {
+    "id": "3-10",
+    "keyword": "person at bus stop -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person at bus stop",
+    "prompt_cn": "提升公交站牌文字和人物的清晰度，使标识信息易于识别。",
+    "prompt_en": "Enhance the clarity of bus stop sign text and the person, making sign information easy to recognize."
+  },
+  {
+    "id": "3-11",
+    "keyword": "person entering subway station -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person entering subway station",
+    "prompt_cn": "提高地铁站标识的分辨率，使入口信息清晰可见。",
+    "prompt_en": "Improve the resolution of subway station signs to make entrance information clearly visible."
+  },
+  {
+    "id": "3-12",
+    "keyword": "person at metro sign -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person at metro sign",
+    "prompt_cn": "提升地铁标志的清晰度，增强文字和图标的可读性。",
+    "prompt_en": "Enhance the clarity of metro signs, improving the readability of text and icons."
+  },
+  {
+    "id": "3-13",
+    "keyword": "person at street intersection -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person at street intersection",
+    "prompt_cn": "提高路口标识和人物的清晰度，增强空间细节表现。",
+    "prompt_en": "Improve the clarity of intersection signs and the person, enhancing spatial detail representation."
+  },
+  {
+    "id": "3-14",
+    "keyword": "person near parking sign -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person near parking sign",
+    "prompt_cn": "提升停车标志的清晰度，使标识内容更加清晰易读。",
+    "prompt_en": "Enhance the clarity of parking signs to make sign content clearer and easier to read."
+  },
+  {
+    "id": "3-15",
+    "keyword": "person reading public notice -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person reading public notice",
+    "prompt_cn": "提升公告板文字的清晰度，使公告内容清晰可读。",
+    "prompt_en": "Enhance the clarity of notice board text to make the announcement content clearly readable."
+  },
+  {
+    "id": "3-16",
+    "keyword": "person at warning sign -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person at warning sign",
+    "prompt_cn": "提高警示标志的清晰度，增强警示信息的可见性。",
+    "prompt_en": "Improve the clarity of warning signs, enhancing the visibility of warning information."
+  },
+  {
+    "id": "3-17",
+    "keyword": "person reading posted rules -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person reading posted rules",
+    "prompt_cn": "提升张贴规则的文字清晰度，使规则内容易于阅读。",
+    "prompt_en": "Enhance the text clarity of posted rules to make the rule content easy to read."
+  },
+  {
+    "id": "3-18",
+    "keyword": "person reading city map -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person reading city map",
+    "prompt_cn": "提高城市地图的分辨率，使地图信息清晰可辨。",
+    "prompt_en": "Improve the resolution of the city map to make map information clearly discernible."
+  },
+  {
+    "id": "3-19",
+    "keyword": "person at billboard -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person at billboard",
+    "prompt_cn": "提升广告牌文字的清晰度，增强广告内容的可读性。",
+    "prompt_en": "Enhance the clarity of billboard text, improving the readability of advertising content."
+  },
+  {
+    "id": "3-20",
+    "keyword": "person at information board -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person at information board",
+    "prompt_cn": "提高信息板的分辨率，使信息内容清晰易读。",
+    "prompt_en": "Improve the resolution of the information board to make information content clear and easy to read."
+  },
+  {
+    "id": "3-21",
+    "keyword": "person at building entrance -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person at building entrance",
+    "prompt_cn": "提升建筑入口标识和人物的清晰度，增强场景细节。",
+    "prompt_en": "Enhance the clarity of building entrance signs and the person, improving scene details."
+  },
+  {
+    "id": "3-22",
+    "keyword": "person between street signs -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person between street signs",
+    "prompt_cn": "提高多个街道标志的清晰度，使所有标识信息清晰可见。",
+    "prompt_en": "Improve the clarity of multiple street signs to make all sign information clearly visible."
+  },
+  {
+    "id": "3-23",
+    "keyword": "person beside sidewalk railing -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person beside sidewalk railing",
+    "prompt_cn": "提升人行道设施和人物的清晰度，增强城市环境细节。",
+    "prompt_en": "Enhance the clarity of sidewalk facilities and the person, improving urban environment details."
+  },
+  {
+    "id": "3-24",
+    "keyword": "person at street sign -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person at street sign",
+    "prompt_cn": "提高街道名称标志的分辨率，使街道名称清晰可读。",
+    "prompt_en": "Improve the resolution of street name signs to make street names clearly readable."
+  },
+  {
+    "id": "3-25",
+    "keyword": "person at intersection corner -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person at intersection corner",
+    "prompt_cn": "提升路口拐角处标识和人物的清晰度，增强空间感。",
+    "prompt_en": "Enhance the clarity of intersection corner signs and the person, improving spatial perception."
+  },
+  {
+    "id": "3-26",
+    "keyword": "person crossing street -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person crossing street",
+    "prompt_cn": "提高过街场景中人物和标识的清晰度，增强动态细节。",
+    "prompt_en": "Improve the clarity of the person and signs in the street crossing scene, enhancing dynamic details."
+  },
+  {
+    "id": "3-27",
+    "keyword": "close-up person urban background -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "close-up person urban background",
+    "prompt_cn": "提升人物面部和城市背景的清晰度，增强人物特征细节。",
+    "prompt_en": "Enhance the clarity of the person's face and urban background, improving facial feature details."
+  },
+  {
+    "id": "3-28",
+    "keyword": "person foreground city street -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person foreground city street",
+    "prompt_cn": "提高前景人物和街道环境的清晰度，增强整体画面质量。",
+    "prompt_en": "Improve the clarity of the foreground person and street environment, enhancing overall image quality."
+  },
+  {
+    "id": "3-29",
+    "keyword": "person centered urban scene -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person centered urban scene",
+    "prompt_cn": "提升画面中心人物和周边城市元素的清晰度和细节。",
+    "prompt_en": "Enhance the clarity and details of the centered person and surrounding urban elements."
+  },
+  {
+    "id": "3-30",
+    "keyword": "person city street portrait -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "person city street portrait",
+    "prompt_cn": "提高中景人物和街道场景的清晰度，增强整体锐度。",
+    "prompt_en": "Improve the clarity of the medium shot person and street scene, enhancing overall sharpness."
+  },
+  {
+    "id": "3-31",
+    "keyword": "candid person city street -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "candid person city street",
+    "prompt_cn": "提升抓拍场景中人物和环境的清晰度，保留自然状态细节。",
+    "prompt_en": "Enhance the clarity of the person and environment in candid shots, preserving natural state details."
+  },
+  {
+    "id": "3-32",
+    "keyword": "pedestrians at intersection -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "pedestrians at intersection",
+    "prompt_cn": "提高多个行人和路口标识的清晰度，增强场景整体质量。",
+    "prompt_en": "Improve the clarity of multiple pedestrians and intersection signs, enhancing overall scene quality."
+  },
+  {
+    "id": "3-33",
+    "keyword": "people waiting at crosswalk -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "people waiting at crosswalk",
+    "prompt_cn": "提升多人和斑马线标识的清晰度，增强交通场景细节。",
+    "prompt_en": "Enhance the clarity of multiple people and crosswalk markings, improving traffic scene details."
+  },
+  {
+    "id": "3-34",
+    "keyword": "people reading sign together -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "people reading sign together",
+    "prompt_cn": "提高多人和标志的清晰度，使集体互动场景更加清晰。",
+    "prompt_en": "Improve the clarity of multiple people and signs to make group interaction scenes clearer."
+  },
+  {
+    "id": "3-35",
+    "keyword": "crowd with street signs -skyline -cityscape -sunset -aerial -landscape",
+    "keyword_formatted": "crowd with street signs",
+    "prompt_cn": "提升人群中街道标志的清晰度，使标识信息在复杂场景中清晰可见。",
+    "prompt_en": "Enhance the clarity of street signs in crowds to make sign information clearly visible in complex scenes."
   },
   {
     "id": "4-1",
-    "keyword": "industrial machine in dark environment",
-    "keyword_formatted": "industrial machine in dark environment",
-    "prompt_cn": "在暗光环境下提亮机械结构，增强工业设备的可见度。",
-    "prompt_en": "Brighten the mechanical structure in a dark environment and enhance the visibility of industrial equipment."
+    "keyword": "overexposed image",
+    "keyword_formatted": "overexposed image",
+    "prompt_cn": "修复过曝图像，恢复细节和正常曝光。",
+    "prompt_en": "Fix overexposed image, restore details and normal exposure."
   },
   {
     "id": "4-2",
-    "keyword": "robotic system in low light",
-    "keyword_formatted": "robotic system in low light",
-    "prompt_cn": "减少弱光下的图像噪点，清晰展现机器人的轮廓。",
-    "prompt_en": "Reduce image noise in low light and clearly display the robot's outline."
+    "keyword": "overexposure photography",
+    "keyword_formatted": "overexposure photography",
+    "prompt_cn": "修复摄影过曝问题，平衡曝光。",
+    "prompt_en": "Fix photography overexposure, balance exposure."
   },
   {
     "id": "4-3",
-    "keyword": "night driving dash",
-    "keyword_formatted": "night driving dash",
-    "prompt_cn": "提升夜间驾驶画面的亮度，确保道路细节清晰可见。",
-    "prompt_en": "Improve the brightness of the night driving scene to ensure road details are clearly visible."
+    "keyword": "blown highlights",
+    "keyword_formatted": "blown highlights",
+    "prompt_cn": "恢复过曝的高光区域细节。",
+    "prompt_en": "Restore details in blown highlight areas."
   },
   {
     "id": "4-4",
-    "keyword": "navigation screen in dark car",
-    "keyword_formatted": "navigation screen in dark car",
-    "prompt_cn": "优化暗光下显示屏的对比度，使导航界面更易读。",
-    "prompt_en": "Optimize the contrast of the display screen in low light to make the navigation interface more readable."
+    "keyword": "washed out image",
+    "keyword_formatted": "washed out image",
+    "prompt_cn": "修复褪色过曝的图像。",
+    "prompt_en": "Fix washed out overexposed image."
   },
   {
     "id": "4-5",
-    "keyword": "automated facility at night",
-    "keyword_formatted": "automated facility at night",
-    "prompt_cn": "恢复暗光区域的纹理，增强自动化作业环境的可视性。",
-    "prompt_en": "Restore textures in dark areas and enhance the visibility of the automated working environment."
+    "keyword": "clipped highlights",
+    "keyword_formatted": "clipped highlights",
+    "prompt_cn": "修复高光溢出，恢复细节。",
+    "prompt_en": "Fix clipped highlights, restore details."
+  },
+  {
+    "id": "4-6",
+    "keyword": "overexposed sunlight",
+    "keyword_formatted": "overexposed sunlight",
+    "prompt_cn": "修复阳光过曝区域。",
+    "prompt_en": "Fix overexposed sunlight areas."
+  },
+  {
+    "id": "4-7",
+    "keyword": "harsh sunlight overexposure",
+    "keyword_formatted": "harsh sunlight overexposure",
+    "prompt_cn": "修复强烈阳光造成的过曝。",
+    "prompt_en": "Fix overexposure from harsh sunlight."
+  },
+  {
+    "id": "4-8",
+    "keyword": "backlit overexposure",
+    "keyword_formatted": "backlit overexposure",
+    "prompt_cn": "修复逆光过曝问题。",
+    "prompt_en": "Fix backlit overexposure issue."
+  },
+  {
+    "id": "4-9",
+    "keyword": "sun glare overexposed",
+    "keyword_formatted": "sun glare overexposed",
+    "prompt_cn": "修复阳光眩光造成的过曝。",
+    "prompt_en": "Fix overexposure from sun glare."
+  },
+  {
+    "id": "4-10",
+    "keyword": "direct sunlight overexposed",
+    "keyword_formatted": "direct sunlight overexposed",
+    "prompt_cn": "修复直射阳光过曝。",
+    "prompt_en": "Fix direct sunlight overexposure."
+  },
+  {
+    "id": "4-11",
+    "keyword": "overexposed outdoor scene",
+    "keyword_formatted": "overexposed outdoor scene",
+    "prompt_cn": "修复室外场景过曝。",
+    "prompt_en": "Fix overexposed outdoor scene."
+  },
+  {
+    "id": "4-12",
+    "keyword": "sun flare overexposure",
+    "keyword_formatted": "sun flare overexposure",
+    "prompt_cn": "修复太阳光晕过曝。",
+    "prompt_en": "Fix sun flare overexposure."
+  },
+  {
+    "id": "4-13",
+    "keyword": "overexposed artificial light",
+    "keyword_formatted": "overexposed artificial light",
+    "prompt_cn": "修复人造光源过曝。",
+    "prompt_en": "Fix overexposed artificial light."
+  },
+  {
+    "id": "4-14",
+    "keyword": "street light overexposed",
+    "keyword_formatted": "street light overexposed",
+    "prompt_cn": "修复路灯过曝。",
+    "prompt_en": "Fix overexposed street light."
+  },
+  {
+    "id": "4-15",
+    "keyword": "car headlights overexposed",
+    "keyword_formatted": "car headlights overexposed",
+    "prompt_cn": "修复车灯过曝。",
+    "prompt_en": "Fix overexposed car headlights."
+  },
+  {
+    "id": "4-16",
+    "keyword": "overexposed night scene",
+    "keyword_formatted": "overexposed night scene",
+    "prompt_cn": "修复夜景过曝。",
+    "prompt_en": "Fix overexposed night scene."
+  },
+  {
+    "id": "4-17",
+    "keyword": "stage lighting overexposure",
+    "keyword_formatted": "stage lighting overexposure",
+    "prompt_cn": "修复舞台灯光过曝。",
+    "prompt_en": "Fix stage lighting overexposure."
+  },
+  {
+    "id": "4-18",
+    "keyword": "spotlight overexposed subject",
+    "keyword_formatted": "spotlight overexposed subject",
+    "prompt_cn": "修复聚光灯过曝主体。",
+    "prompt_en": "Fix spotlight overexposed subject."
+  },
+  {
+    "id": "4-19",
+    "keyword": "LED light overexposed",
+    "keyword_formatted": "LED light overexposed",
+    "prompt_cn": "修复LED灯过曝。",
+    "prompt_en": "Fix LED light overexposure."
+  },
+  {
+    "id": "4-20",
+    "keyword": "overexposed driving scene",
+    "keyword_formatted": "overexposed driving scene",
+    "prompt_cn": "修复驾驶场景过曝。",
+    "prompt_en": "Fix overexposed driving scene."
+  },
+  {
+    "id": "4-21",
+    "keyword": "overexposed traffic light",
+    "keyword_formatted": "overexposed traffic light",
+    "prompt_cn": "修复交通信号灯过曝。",
+    "prompt_en": "Fix overexposed traffic light."
+  },
+  {
+    "id": "4-22",
+    "keyword": "overexposed street intersection",
+    "keyword_formatted": "overexposed street intersection",
+    "prompt_cn": "修复街道路口过曝。",
+    "prompt_en": "Fix overexposed street intersection."
+  },
+  {
+    "id": "4-23",
+    "keyword": "overexposed dashcam image",
+    "keyword_formatted": "overexposed dashcam image",
+    "prompt_cn": "修复行车记录仪过曝。",
+    "prompt_en": "Fix overexposed dashcam image."
+  },
+  {
+    "id": "4-24",
+    "keyword": "overexposed autonomous driving",
+    "keyword_formatted": "overexposed autonomous driving",
+    "prompt_cn": "修复自动驾驶相机过曝。",
+    "prompt_en": "Fix overexposed autonomous driving camera."
+  },
+  {
+    "id": "4-25",
+    "keyword": "overexposed urban scene",
+    "keyword_formatted": "overexposed urban scene",
+    "prompt_cn": "修复城市场景过曝。",
+    "prompt_en": "Fix overexposed urban scene."
+  },
+  {
+    "id": "4-26",
+    "keyword": "overexposed factory lighting",
+    "keyword_formatted": "overexposed factory lighting",
+    "prompt_cn": "修复工厂照明过曝。",
+    "prompt_en": "Fix overexposed factory lighting."
+  },
+  {
+    "id": "4-27",
+    "keyword": "overexposed warehouse lighting",
+    "keyword_formatted": "overexposed warehouse lighting",
+    "prompt_cn": "修复仓库照明过曝。",
+    "prompt_en": "Fix overexposed warehouse lighting."
+  },
+  {
+    "id": "4-28",
+    "keyword": "overexposed robotic vision",
+    "keyword_formatted": "overexposed robotic vision",
+    "prompt_cn": "修复机器人视觉过曝。",
+    "prompt_en": "Fix overexposed robotic vision."
+  },
+  {
+    "id": "4-29",
+    "keyword": "industrial lighting overexposure",
+    "keyword_formatted": "industrial lighting overexposure",
+    "prompt_cn": "修复工业照明过曝。",
+    "prompt_en": "Fix industrial lighting overexposure."
+  },
+  {
+    "id": "4-30",
+    "keyword": "machine vision overexposed",
+    "keyword_formatted": "machine vision overexposed",
+    "prompt_cn": "修复机器视觉过曝。",
+    "prompt_en": "Fix machine vision overexposure."
   },
   {
     "id": "5-1",
-    "keyword": "strong glare on reflective surface",
-    "keyword_formatted": "strong glare on reflective surface",
-    "prompt_cn": "消除物体表面的强烈眩光，恢复被遮盖的细节。",
-    "prompt_en": "Eliminate strong glare on the surface of objects and restore covered details."
+    "keyword": "sun glare windshield",
+    "keyword_formatted": "sun glare windshield",
+    "prompt_cn": "移除挡风玻璃上的阳光眩光。",
+    "prompt_en": "Remove sun glare on windshield."
   },
   {
     "id": "5-2",
-    "keyword": "overexposed light source",
-    "keyword_formatted": "overexposed light source",
-    "prompt_cn": "抑制画面中的过曝区域，找回高亮部分的图像信息。",
-    "prompt_en": "Suppress overexposed areas in the image and retrieve image information from the highlights."
+    "keyword": "lens flare dashboard",
+    "keyword_formatted": "lens flare dashboard",
+    "prompt_cn": "移除仪表盘镜头光晕。",
+    "prompt_en": "Remove lens flare from dashboard."
   },
   {
     "id": "5-3",
-    "keyword": "driving with lens flare",
-    "keyword_formatted": "driving with lens flare",
-    "prompt_cn": "移除画面中的镜头光斑和眩光，还原前方道路信息。",
-    "prompt_en": "Remove lens flare and glare from the image to restore the road information ahead."
+    "keyword": "sun glare highway",
+    "keyword_formatted": "sun glare highway",
+    "prompt_cn": "移除高速公路阳光眩光。",
+    "prompt_en": "Remove sun glare on highway."
   },
   {
     "id": "5-4",
-    "keyword": "high brightness industrial scene",
-    "keyword_formatted": "high brightness industrial scene",
-    "prompt_cn": "调整画面曝光平衡，消除工业光源带来的视觉干扰。",
-    "prompt_en": "Adjust image exposure balance and eliminate visual interference caused by industrial light sources."
+    "keyword": "sunset glare traffic",
+    "keyword_formatted": "sunset glare traffic",
+    "prompt_cn": "移除日落交通眩光。",
+    "prompt_en": "Remove sunset glare in traffic."
   },
   {
     "id": "5-5",
-    "keyword": "dashboard glare",
-    "keyword_formatted": "dashboard glare",
-    "prompt_cn": "减少挡风玻璃或屏幕上的反光，使驾驶导航信息清晰。",
-    "prompt_en": "Reduce reflections on the windshield or screen to make driving navigation information clear."
+    "keyword": "headlight glare night",
+    "keyword_formatted": "headlight glare night",
+    "prompt_cn": "移除夜间车灯眩光。",
+    "prompt_en": "Remove headlight glare at night."
+  },
+  {
+    "id": "5-6",
+    "keyword": "oncoming car glare",
+    "keyword_formatted": "oncoming car glare",
+    "prompt_cn": "移除对向车辆眩光。",
+    "prompt_en": "Remove oncoming car glare."
+  },
+  {
+    "id": "5-7",
+    "keyword": "lens flare traffic",
+    "keyword_formatted": "lens flare traffic",
+    "prompt_cn": "移除交通监控镜头光晕。",
+    "prompt_en": "Remove lens flare from traffic camera."
+  },
+  {
+    "id": "5-8",
+    "keyword": "sun glare intersection",
+    "keyword_formatted": "sun glare intersection",
+    "prompt_cn": "移除路口阳光眩光。",
+    "prompt_en": "Remove sun glare at intersection."
+  },
+  {
+    "id": "5-9",
+    "keyword": "glare car window",
+    "keyword_formatted": "glare car window",
+    "prompt_cn": "移除车窗眩光。",
+    "prompt_en": "Remove glare through car window."
+  },
+  {
+    "id": "5-10",
+    "keyword": "lens flare city",
+    "keyword_formatted": "lens flare city",
+    "prompt_cn": "移除城市街道镜头光晕。",
+    "prompt_en": "Remove lens flare in city street."
+  },
+  {
+    "id": "5-11",
+    "keyword": "sun glare urban",
+    "keyword_formatted": "sun glare urban",
+    "prompt_cn": "移除城市街景阳光眩光。",
+    "prompt_en": "Remove sun glare in urban photography."
+  },
+  {
+    "id": "5-12",
+    "keyword": "glare glass building",
+    "keyword_formatted": "glare glass building",
+    "prompt_cn": "移除玻璃建筑眩光。",
+    "prompt_en": "Remove glare from glass building."
+  },
+  {
+    "id": "5-13",
+    "keyword": "window reflection glare",
+    "keyword_formatted": "window reflection glare",
+    "prompt_cn": "移除窗户反射眩光。",
+    "prompt_en": "Remove window reflection glare."
+  },
+  {
+    "id": "5-14",
+    "keyword": "street sign glare",
+    "keyword_formatted": "street sign glare",
+    "prompt_cn": "移除路标眩光。",
+    "prompt_en": "Remove street sign glare."
+  },
+  {
+    "id": "5-15",
+    "keyword": "lens flare skyscraper",
+    "keyword_formatted": "lens flare skyscraper",
+    "prompt_cn": "移除摩天大楼镜头光晕。",
+    "prompt_en": "Remove lens flare from skyscraper."
+  },
+  {
+    "id": "5-16",
+    "keyword": "glare road signs",
+    "keyword_formatted": "glare road signs",
+    "prompt_cn": "移除道路标志眩光。",
+    "prompt_en": "Remove glare on road signs."
+  },
+  {
+    "id": "5-17",
+    "keyword": "city night glare",
+    "keyword_formatted": "city night glare",
+    "prompt_cn": "移除城市夜景光线眩光。",
+    "prompt_en": "Remove city night light glare."
+  },
+  {
+    "id": "5-18",
+    "keyword": "camera glare industrial",
+    "keyword_formatted": "camera glare industrial",
+    "prompt_cn": "移除工业环境相机眩光。",
+    "prompt_en": "Remove camera glare in industrial environment."
+  },
+  {
+    "id": "5-19",
+    "keyword": "robot vision glare",
+    "keyword_formatted": "robot vision glare",
+    "prompt_cn": "移除机器人视觉阳光眩光。",
+    "prompt_en": "Remove robot vision sun glare."
+  },
+  {
+    "id": "5-20",
+    "keyword": "surveillance camera flare",
+    "keyword_formatted": "surveillance camera flare",
+    "prompt_cn": "移除监控摄像头镜头光晕。",
+    "prompt_en": "Remove surveillance camera lens flare."
+  },
+  {
+    "id": "5-21",
+    "keyword": "glare factory lighting",
+    "keyword_formatted": "glare factory lighting",
+    "prompt_cn": "移除工厂照明眩光。",
+    "prompt_en": "Remove glare in factory lighting."
+  },
+  {
+    "id": "5-22",
+    "keyword": "warehouse light glare",
+    "keyword_formatted": "warehouse light glare",
+    "prompt_cn": "移除仓库灯光眩光。",
+    "prompt_en": "Remove warehouse light glare."
+  },
+  {
+    "id": "5-23",
+    "keyword": "glare metallic surface",
+    "keyword_formatted": "glare metallic surface",
+    "prompt_cn": "移除金属表面眩光。",
+    "prompt_en": "Remove glare on metallic surface."
+  },
+  {
+    "id": "5-24",
+    "keyword": "robotic navigation glare",
+    "keyword_formatted": "robotic navigation glare",
+    "prompt_cn": "移除机器人导航眩光。",
+    "prompt_en": "Remove robotic navigation glare."
+  },
+  {
+    "id": "5-25",
+    "keyword": "indoor light glare",
+    "keyword_formatted": "indoor light glare",
+    "prompt_cn": "移除室内光线眩光。",
+    "prompt_en": "Remove indoor light glare."
+  },
+  {
+    "id": "5-26",
+    "keyword": "glare ceiling lights",
+    "keyword_formatted": "glare ceiling lights",
+    "prompt_cn": "移除天花板灯光眩光。",
+    "prompt_en": "Remove glare from ceiling lights."
+  },
+  {
+    "id": "5-27",
+    "keyword": "lens flare indoor",
+    "keyword_formatted": "lens flare indoor",
+    "prompt_cn": "移除室内摄影镜头光晕。",
+    "prompt_en": "Remove lens flare in indoor photography."
+  },
+  {
+    "id": "5-28",
+    "keyword": "glare glass door",
+    "keyword_formatted": "glare glass door",
+    "prompt_cn": "移除玻璃门眩光。",
+    "prompt_en": "Remove glare through glass door."
+  },
+  {
+    "id": "5-29",
+    "keyword": "glare screen reflection",
+    "keyword_formatted": "glare screen reflection",
+    "prompt_cn": "移除屏幕反射眩光。",
+    "prompt_en": "Remove glare on screen reflection."
+  },
+  {
+    "id": "5-30",
+    "keyword": "office lighting glare",
+    "keyword_formatted": "office lighting glare",
+    "prompt_cn": "移除办公室照明眩光。",
+    "prompt_en": "Remove office lighting glare."
+  },
+  {
+    "id": "5-31",
+    "keyword": "strong lamp glare",
+    "keyword_formatted": "strong lamp glare",
+    "prompt_cn": "移除强光灯眩光。",
+    "prompt_en": "Remove strong lamp glare."
+  },
+  {
+    "id": "5-32",
+    "keyword": "sun flare forest",
+    "keyword_formatted": "sun flare forest",
+    "prompt_cn": "移除森林小径太阳光晕。",
+    "prompt_en": "Remove sun flare on forest path."
+  },
+  {
+    "id": "5-33",
+    "keyword": "glare water surface",
+    "keyword_formatted": "glare water surface",
+    "prompt_cn": "移除水面阳光眩光。",
+    "prompt_en": "Remove glare on water surface."
+  },
+  {
+    "id": "5-34",
+    "keyword": "lens flare mountain",
+    "keyword_formatted": "lens flare mountain",
+    "prompt_cn": "移除登山镜头光晕。",
+    "prompt_en": "Remove lens flare while mountain hiking."
+  },
+  {
+    "id": "5-35",
+    "keyword": "strong sun glare",
+    "keyword_formatted": "strong sun glare",
+    "prompt_cn": "移除强烈阳光眩光。",
+    "prompt_en": "Remove strong sun glare outdoor."
+  },
+  {
+    "id": "5-36",
+    "keyword": "beach sun glare",
+    "keyword_formatted": "beach sun glare",
+    "prompt_cn": "移除海滩阳光眩光。",
+    "prompt_en": "Remove beach sun glare."
+  },
+  {
+    "id": "5-37",
+    "keyword": "snow glare sunlight",
+    "keyword_formatted": "snow glare sunlight",
+    "prompt_cn": "移除雪地阳光眩光。",
+    "prompt_en": "Remove snow glare from sunlight."
+  },
+  {
+    "id": "5-38",
+    "keyword": "sunrise glare field",
+    "keyword_formatted": "sunrise glare field",
+    "prompt_cn": "移除田野日出眩光。",
+    "prompt_en": "Remove sunrise glare in field."
+  },
+  {
+    "id": "5-39",
+    "keyword": "portrait lens flare",
+    "keyword_formatted": "portrait lens flare",
+    "prompt_cn": "移除人像镜头光晕。",
+    "prompt_en": "Remove portrait lens flare."
+  },
+  {
+    "id": "5-40",
+    "keyword": "face glare backlight",
+    "keyword_formatted": "face glare backlight",
+    "prompt_cn": "移除脸部逆光眩光。",
+    "prompt_en": "Remove face glare from backlight."
   },
   {
     "id": "6-1",
-    "keyword": "person wearing casual outfit",
-    "keyword_formatted": "person wearing casual outfit",
-    "prompt_cn": "更改图中人物所穿的衣服款式和颜色。",
-    "prompt_en": "Change the style and color of the clothes worn by the person in the image."
+    "keyword": "low light industrial",
+    "keyword_formatted": "low light industrial",
+    "prompt_cn": "增强工业环境弱光图像。",
+    "prompt_en": "Enhance low light industrial environment."
   },
   {
     "id": "6-2",
-    "keyword": "human model portrait",
-    "keyword_formatted": "human model portrait",
-    "prompt_cn": "为图中的人物添加一件时尚的配饰（如帽子或眼镜）。",
-    "prompt_en": "Add a stylish accessory (such as a hat or glasses) to the person in the image."
+    "keyword": "low illumination factory",
+    "keyword_formatted": "low illumination factory",
+    "prompt_cn": "增强工厂低照度图像。",
+    "prompt_en": "Enhance low illumination factory floor."
   },
   {
     "id": "6-3",
-    "keyword": "full body photo of a person",
-    "keyword_formatted": "full body photo of a person",
-    "prompt_cn": "修改人物的站立姿态，使其更具时尚感。",
-    "prompt_en": "Modify the person's standing pose to make it more fashionable."
+    "keyword": "dark industrial workshop",
+    "keyword_formatted": "dark industrial workshop",
+    "prompt_cn": "增强黑暗工业车间图像。",
+    "prompt_en": "Enhance dark industrial workshop."
   },
   {
     "id": "6-4",
-    "keyword": "person with specific hairstyle",
-    "keyword_formatted": "person with specific hairstyle",
-    "prompt_cn": "改变图中人物的发型和发色。",
-    "prompt_en": "Change the hairstyle and hair color of the person in the image."
+    "keyword": "night factory interior",
+    "keyword_formatted": "night factory interior",
+    "prompt_cn": "增强夜班工厂内部图像。",
+    "prompt_en": "Enhance night shift factory interior."
   },
   {
     "id": "6-5",
-    "keyword": "person in professional attire",
-    "keyword_formatted": "person in professional attire",
-    "prompt_cn": "将人物的服装更换为另一种季节的时尚风格。",
-    "prompt_en": "Change the person's clothing to a different seasonal fashion style."
+    "keyword": "poorly lit manufacturing",
+    "keyword_formatted": "poorly lit manufacturing",
+    "prompt_cn": "增强照明不良制造厂图像。",
+    "prompt_en": "Enhance poorly lit manufacturing plant."
+  },
+  {
+    "id": "6-6",
+    "keyword": "low light conveyor",
+    "keyword_formatted": "low light conveyor",
+    "prompt_cn": "增强弱光传送带检测图像。",
+    "prompt_en": "Enhance low light conveyor belt inspection."
+  },
+  {
+    "id": "6-7",
+    "keyword": "dark warehouse robotics",
+    "keyword_formatted": "dark warehouse robotics",
+    "prompt_cn": "增强黑暗仓库机器人图像。",
+    "prompt_en": "Enhance dark warehouse robotics."
+  },
+  {
+    "id": "6-8",
+    "keyword": "low light machine",
+    "keyword_formatted": "low light machine",
+    "prompt_cn": "增强弱光机器视觉图像。",
+    "prompt_en": "Enhance low light machine vision."
+  },
+  {
+    "id": "6-9",
+    "keyword": "night factory surveillance",
+    "keyword_formatted": "night factory surveillance",
+    "prompt_cn": "增强夜间工厂监控图像。",
+    "prompt_en": "Enhance night factory surveillance camera."
+  },
+  {
+    "id": "6-10",
+    "keyword": "dimly lit assembly",
+    "keyword_formatted": "dimly lit assembly",
+    "prompt_cn": "增强昏暗装配线图像。",
+    "prompt_en": "Enhance dimly lit assembly line."
+  },
+  {
+    "id": "6-11",
+    "keyword": "low light robotics",
+    "keyword_formatted": "low light robotics",
+    "prompt_cn": "增强弱光机器人环境图像。",
+    "prompt_en": "Enhance low light robotics environment."
+  },
+  {
+    "id": "6-12",
+    "keyword": "robot navigation darkness",
+    "keyword_formatted": "robot navigation darkness",
+    "prompt_cn": "增强机器人弱光导航图像。",
+    "prompt_en": "Enhance robot navigation in low light."
+  },
+  {
+    "id": "6-13",
+    "keyword": "indoor robot low",
+    "keyword_formatted": "indoor robot low",
+    "prompt_cn": "增强室内机器人低照度图像。",
+    "prompt_en": "Enhance indoor robot low illumination."
+  },
+  {
+    "id": "6-14",
+    "keyword": "dark corridor robot",
+    "keyword_formatted": "dark corridor robot",
+    "prompt_cn": "增强黑暗走廊机器人图像。",
+    "prompt_en": "Enhance dark corridor robot."
+  },
+  {
+    "id": "6-15",
+    "keyword": "robot vision low",
+    "keyword_formatted": "robot vision low",
+    "prompt_cn": "增强机器人弱光视觉图像。",
+    "prompt_en": "Enhance robot vision in low light."
+  },
+  {
+    "id": "6-16",
+    "keyword": "mobile robot hallway",
+    "keyword_formatted": "mobile robot hallway",
+    "prompt_cn": "增强移动机器人黑暗走廊图像。",
+    "prompt_en": "Enhance mobile robot in dark hallway."
+  },
+  {
+    "id": "6-17",
+    "keyword": "autonomous robot night",
+    "keyword_formatted": "autonomous robot night",
+    "prompt_cn": "增强自主机器人夜间环境图像。",
+    "prompt_en": "Enhance autonomous robot night environment."
+  },
+  {
+    "id": "6-18",
+    "keyword": "robot SLAM low",
+    "keyword_formatted": "robot SLAM low",
+    "prompt_cn": "增强机器人SLAM弱光图像。",
+    "prompt_en": "Enhance robot SLAM in low light."
+  },
+  {
+    "id": "6-19",
+    "keyword": "service robot indoor",
+    "keyword_formatted": "service robot indoor",
+    "prompt_cn": "增强服务机器人室内弱光图像。",
+    "prompt_en": "Enhance service robot low light indoor."
+  },
+  {
+    "id": "6-20",
+    "keyword": "night driving low",
+    "keyword_formatted": "night driving low",
+    "prompt_cn": "增强夜间驾驶弱光图像。",
+    "prompt_en": "Enhance night driving low light."
+  },
+  {
+    "id": "6-21",
+    "keyword": "low light road",
+    "keyword_formatted": "low light road",
+    "prompt_cn": "增强弱光道路场景图像。",
+    "prompt_en": "Enhance low light road scene."
+  },
+  {
+    "id": "6-22",
+    "keyword": "nighttime driving camera",
+    "keyword_formatted": "nighttime driving camera",
+    "prompt_cn": "增强夜间驾驶摄像头图像。",
+    "prompt_en": "Enhance nighttime driving camera."
+  },
+  {
+    "id": "6-23",
+    "keyword": "urban night street",
+    "keyword_formatted": "urban night street",
+    "prompt_cn": "增强城市夜间街道弱光图像。",
+    "prompt_en": "Enhance urban night street low light."
+  },
+  {
+    "id": "6-24",
+    "keyword": "dark city road",
+    "keyword_formatted": "dark city road",
+    "prompt_cn": "增强黑暗城市道路交通图像。",
+    "prompt_en": "Enhance dark city road traffic."
+  },
+  {
+    "id": "6-25",
+    "keyword": "low light intersection",
+    "keyword_formatted": "low light intersection",
+    "prompt_cn": "增强弱光路口夜间图像。",
+    "prompt_en": "Enhance low light intersection at night."
+  },
+  {
+    "id": "6-26",
+    "keyword": "insufficient street lighting",
+    "keyword_formatted": "insufficient street lighting",
+    "prompt_cn": "增强路灯不足道路图像。",
+    "prompt_en": "Enhance street light insufficient road."
+  },
+  {
+    "id": "6-27",
+    "keyword": "rural road night",
+    "keyword_formatted": "rural road night",
+    "prompt_cn": "增强乡村道路夜间弱光图像。",
+    "prompt_en": "Enhance rural road night low light."
+  },
+  {
+    "id": "6-28",
+    "keyword": "highway night driving",
+    "keyword_formatted": "highway night driving",
+    "prompt_cn": "增强高速公路夜间驾驶低照度图像。",
+    "prompt_en": "Enhance highway night driving low illumination."
+  },
+  {
+    "id": "6-29",
+    "keyword": "autonomous driving night",
+    "keyword_formatted": "autonomous driving night",
+    "prompt_cn": "增强自动驾驶夜间场景图像。",
+    "prompt_en": "Enhance autonomous driving night scene."
+  },
+  {
+    "id": "6-30",
+    "keyword": "self driving camera",
+    "keyword_formatted": "self driving camera",
+    "prompt_cn": "增强自动驾驶汽车弱光摄像头图像。",
+    "prompt_en": "Enhance self driving car low light camera."
+  },
+  {
+    "id": "6-31",
+    "keyword": "ADAS night vision",
+    "keyword_formatted": "ADAS night vision",
+    "prompt_cn": "增强ADAS夜视摄像头图像。",
+    "prompt_en": "Enhance ADAS night vision camera."
+  },
+  {
+    "id": "6-32",
+    "keyword": "vehicle perception low",
+    "keyword_formatted": "vehicle perception low",
+    "prompt_cn": "增强车辆弱光感知图像。",
+    "prompt_en": "Enhance vehicle perception in low light."
+  },
+  {
+    "id": "6-33",
+    "keyword": "low light navigation",
+    "keyword_formatted": "low light navigation",
+    "prompt_cn": "增强弱光导航场景图像。",
+    "prompt_en": "Enhance low light navigation scene."
+  },
+  {
+    "id": "6-34",
+    "keyword": "visual navigation low",
+    "keyword_formatted": "visual navigation low",
+    "prompt_cn": "增强视觉导航低照度图像。",
+    "prompt_en": "Enhance visual navigation low illumination."
+  },
+  {
+    "id": "6-35",
+    "keyword": "navigation camera night",
+    "keyword_formatted": "navigation camera night",
+    "prompt_cn": "增强导航摄像头夜间图像。",
+    "prompt_en": "Enhance navigation camera at night."
+  },
+  {
+    "id": "6-36",
+    "keyword": "indoor navigation low",
+    "keyword_formatted": "indoor navigation low",
+    "prompt_cn": "增强室内弱光导航图像。",
+    "prompt_en": "Enhance indoor navigation low light."
+  },
+  {
+    "id": "6-37",
+    "keyword": "dark hallway navigation",
+    "keyword_formatted": "dark hallway navigation",
+    "prompt_cn": "增强黑暗走廊导航图像。",
+    "prompt_en": "Enhance dark hallway navigation."
+  },
+  {
+    "id": "6-38",
+    "keyword": "underground parking low",
+    "keyword_formatted": "underground parking low",
+    "prompt_cn": "增强地下停车场弱光图像。",
+    "prompt_en": "Enhance underground parking low light."
+  },
+  {
+    "id": "6-39",
+    "keyword": "outdoor navigation night",
+    "keyword_formatted": "outdoor navigation night",
+    "prompt_cn": "增强室外夜间导航图像。",
+    "prompt_en": "Enhance outdoor navigation at night."
+  },
+  {
+    "id": "6-40",
+    "keyword": "visual odometry low",
+    "keyword_formatted": "visual odometry low",
+    "prompt_cn": "增强弱光视觉里程计图像。",
+    "prompt_en": "Enhance visual odometry in low light."
   }
 ]
